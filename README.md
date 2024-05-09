@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Florian34497
 - 👀 I’m interested in creating the best web- and app blocker for the apps store
-- 🌱 I’m currently learning iOS developnent
+- 🌱 I’m currently learning iOS app development
 - 💞️ I’m looking to collaborate on nothing rn
 - 📫 How to reach me: GitHub DMs or somethinhg, i dunno...
 - 😄 Pronouns: he/him (I´m a man🗿)
